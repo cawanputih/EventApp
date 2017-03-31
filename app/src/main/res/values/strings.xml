@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EventApp</string>
+    <string-array name="names">
+        <item>Home Band Lemon</item>
+        <item>Valentine Lumban Raja</item>
+        <item>Pentas Seni Kusuma</item>
+        <item>Pameran Don Bosco</item>
+        <item>Home Band ZINC Cafe</item>
+        <item>Pesta Lapangan Merdeka</item>
+    </string-array>
+
+    <string-array name="dates">
+        <item>02 Januari 2017</item>
+        <item>14 Februari 2017</item>
+        <item>17 Februari 2017</item>
+        <item>18 Maret 2017</item>
+        <item>08 April 2017</item>
+        <item>08 Mei 2017</item>
+    </string-array>
+
+</resources>
